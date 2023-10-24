@@ -1,15 +1,11 @@
-# NextMicon
-
-🔰 FPGA Paltform for Maker
+# NextMicon : 🔰 FPGA Paltform for Maker
 
 Next Micon は、自作マイコンを簡単に作るためのプラットフォームです。
 FPGA を使った電子工作が手軽にできます！
 
-## Next Micon IDE
+## [🛠️ Next Micon IDE](https://github.com/NextMicon/NextMiconIDE)
 
-
-
-## Next Micon Cherry 🍒
+## [🍒 Next Micon Cherry](https://github.com/NextMicon/NextMiconCherry)
 
 Next Micon Cherry は安価なエントリクラスのFPGAボードです。
 ATMega328 と同程度のマイコンを作るだけの機能を備えています。
@@ -18,16 +14,16 @@ Spec
  - FPGA: Lattice iCE40 LP8K
  - CPU: Softcore
 
-## Next Micon Grape 🍇
+## [🍇 Next Micon Grape](https://github.com/NextMicon/NextMiconGrape)
 
 Next Micon Grape は、Cherry よりも高機能なFPGAボードです。
-FPGAらしいハードウェア・アルゴリズムを、作りながら学ぶことに適しています。
+FPGAらしいハードウェア・アルゴリズムを実装することができます。
 
 Spec
  - FPGA: Xilinx Zynq
  - CPU: ARM Coretex
 
-## RK16 verry simple ISA
+## [📟 RK16 : verry simple ISA](https://github.com/kanade-k-1228/RISC-K)
 
 RK16は、とても簡単な構成のISAで、自作CPUの入門として適しています。
 アセンブラ、エミュレータが実装されており、簡単に開発を始めることができます。
