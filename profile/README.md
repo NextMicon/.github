@@ -10,18 +10,10 @@ FPGA を使った電子工作が手軽にできます！
 Next Micon Cherry は安価なエントリクラスのFPGAボードです。
 ATMega328 と同程度のマイコンを作るだけの機能を備えています。
 
-Spec
- - FPGA: Lattice iCE40 LP8K
- - CPU: Softcore
-
 ## [🍇 Next Micon Grape](https://github.com/NextMicon/NextMiconGrape)
 
 Next Micon Grape は、Cherry よりも高機能なFPGAボードです。
 FPGAらしいハードウェア・アルゴリズムを実装することができます。
-
-Spec
- - FPGA: Xilinx Zynq
- - CPU: ARM Coretex
 
 ## [📟 RK16 : verry simple ISA](https://github.com/kanade-k-1228/RISC-K)
 
