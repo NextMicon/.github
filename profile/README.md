@@ -1,13 +1,16 @@
-# NextMicon : 🔰 FPGA Paltform for Maker
+# NextMicon : 🔰 FPGA paltform for Maker
 
-Next Micon は、自作マイコンを簡単に作るためのプラットフォームです。
-FPGA を使った電子工作が手軽にできます！
+NextMicon を使えば FPGA を使った電子工作が手軽にできます！
 
 ## [🛠️ Next Micon IDE](https://github.com/NextMicon/NextMiconIDE)
 
+![](./img/ide_hw.png)
+
+![](./img/ide_sw.png)
+
 ## [🍒 Next Micon Cherry](https://github.com/NextMicon/NextMiconCherry)
 
-Next Micon Cherry は安価なエントリクラスのFPGAボードです。
+Next Micon Cherry は、安価なエントリクラスのFPGAボードです。
 ATMega328 と同程度のマイコンを作るだけの機能を備えています。
 
 ## [🍇 Next Micon Grape](https://github.com/NextMicon/NextMiconGrape)
