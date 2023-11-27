@@ -4,9 +4,9 @@ NextMicon を使えば FPGA を使った電子工作が手軽にできます！
 
 ## [🛠️ Next Micon IDE](https://github.com/NextMicon/NextMiconIDE)
 
-![](./img/ide_hw.png)
+![](https://raw.githubusercontent.com/NextMicon/.github/main/profile/img/ide_hw.png)
 
-![](./img/ide_sw.png)
+![](https://raw.githubusercontent.com/NextMicon/.github/main/profile/img/ide_sw.png)
 
 ## [🍒 Next Micon Cherry](https://github.com/NextMicon/NextMiconCherry)
 
